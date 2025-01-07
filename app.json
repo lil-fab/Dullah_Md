@@ -58,6 +58,12 @@
       "value":"yes",
       "required":false
     },
+    "CHATBOT":
+    {
+      "description":"Enter yes for your bot to auto reply messages",
+      "value":"yes",
+      "required":false
+    },
     "BLOCK_ALL": {
       "description": "Turn this 'on' if you want the bot to automatically block ANYONE WHO SENDS YOU A MESSAGE. Use 'off' to disable it.",
       "value": "no",
