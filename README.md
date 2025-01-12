@@ -7,7 +7,7 @@ DULLAH MD v²
 
 <p align="center">
   <a href="https://github.com/abdallahsalimjuma">
-    <img alt="Dullah Md logo" height="200" src="https://files.catbox.moe/cc78ex.png">
+    <img alt="Dullah Md logo" height="200" src="https://files.catbox.moe/ig9w4q.jpg">
   </a>
 </p>
   
