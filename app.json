@@ -148,7 +148,17 @@
       "description": "Put yes if you want the bot to react to messages in private",
       "required": false,
       "value": "yes"
-    }
+    },
+     "ANTIDELETE2" : {
+    "description": "if you want to enable anti delete in conversation put yes else put no",
+    "value": "no",
+        "required": false
+ },
+  "ANTIDELETE1" : {
+    "description": "if you want to enable anti delete messages to be sent to your inbox put yes else put no",
+    "value": "no",
+        "required": false
+  }
   },
   "formation": {
     "worker": {
