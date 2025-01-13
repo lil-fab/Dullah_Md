@@ -32,7 +32,7 @@ zokou({ nomCom: "tagadmin", categorie: 'Group', reaction: "📣" }, async (dest,
 
   let tag = `
 ╭─────────────━┈⊷ 
-│🔰 𝐁𝐌𝐖 𝐌𝐃 𝐓𝐀𝐆 𝐀𝐃𝐌𝐈𝐍
+│🔰 DULLAH MD
 ╰─────────────━┈⊷ \n
 │👥 *Group* : ${nomGroupe} 
 │👤 *Hey😀* : *${nomAuteurMessage}* 
