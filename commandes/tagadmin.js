@@ -34,7 +34,7 @@ zokou({ nomCom: "tagadmin", categorie: 'Group', reaction: "📣" }, async (dest,
 
   let tag = `
 ╭─────────────━┈⊷ 
-│🔰 𝐁𝐌𝐖 𝐌𝐃 𝐓𝐀𝐆 - Admins Only
+│🔰  ᴅᴜʟʟᴀʜ ᴍᴅ 💂
 ╰─────────────━┈⊷
 │👥 *Group* : ${nomGroupe} 
 │👤 *Hey😀* : *${nomAuteurMessage}* 
